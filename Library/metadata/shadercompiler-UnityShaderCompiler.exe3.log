@@ -1,0 +1,4 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=14 insize=493 outsize=1422 ok=1
